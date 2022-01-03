@@ -12,3 +12,6 @@ This is my gist sample [code](https://gist.github.com/yared2022/182d492dd19fbbd7
 
 ### Colab example
 This is my colab [notebook](https://github.com/yared2022/myfirstproject/blob/main/SamplEx.ipynb)
+
+### Image
+Here is the [Image] (![image](https://user-images.githubusercontent.com/97039941/147973881-0a810728-642e-489a-b5bc-d07b4e342f59.png)
